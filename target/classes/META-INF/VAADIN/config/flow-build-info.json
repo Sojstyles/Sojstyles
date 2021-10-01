@@ -1,0 +1,9 @@
+{
+  "compatibilityMode": false,
+  "productionMode": false,
+  "npmFolder": "/home/techstellar/DevOps Project/Maven/my-todo",
+  "generatedFolder": "/home/techstellar/DevOps Project/Maven/my-todo/target/frontend",
+  "frontendFolder": "/home/techstellar/DevOps Project/Maven/my-todo/frontend",
+  "pnpm.enable": false,
+  "require.home.node": false
+}
