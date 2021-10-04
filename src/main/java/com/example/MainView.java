@@ -39,7 +39,7 @@ public class MainView extends VerticalLayout {
     public MainView(@Autowired GreetService service) {
 
         // Use TextField for standard text input
-        TextField textField = new TextField("Your Name");
+        TextField textField = new TextField("Your Name Pleqas");
         textField.addThemeName("bordered");
 
         // Button click listeners can be defined as lambda expressions
